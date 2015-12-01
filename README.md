@@ -13,8 +13,8 @@ Usage
 
 Create a text file which describes the cuts you need, e.g.
 
-Name 1,100,200
-Name 2,300,400
-Name 3,400,500
+Name 1,100,200<br>
+Name 2,300,400<br>
+Name 3,400,500<br>
 
 This means that there were 3 speakers called Name 1, Name 2 and Name 3. Name 1 talked from 100 seconds to 200 seconds in the source video. This is the part that will be extracted to a seperate mp4 and Name 1 will be put in an overlay.
